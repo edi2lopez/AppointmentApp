@@ -1,0 +1,7 @@
+build/*
+nbproject/*
+dynamiceports/*
+dist/*
+*.mf
+*.xml
+*.jar
